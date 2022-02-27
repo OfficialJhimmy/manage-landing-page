@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-[<img align="left" alt="Visual Studio Code" width="500px" src="images/screencapture-file-C-Users-HP-Documents-manage-landing-page-master-index-html-2022-02-27-11_32_01.png" style="margin-right:20px"/>]
+[<img alt="Visual Studio Code" width="500px" src="images/screencapture-file-C-Users-HP-Documents-manage-landing-page-master-index-html-2022-02-27-11_32_01.png" style="margin-right:20px"/>]
 
 
 
