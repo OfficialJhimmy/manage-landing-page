@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- !['/images/screencapture-file-C-Users-HP-Documents-manage-landing-page-master-index-html-2022-02-27-11_32_01.png'](./screenshot.jpg) -->
-(./images/screencapture-file-C-Users-HP-Documents-manage-landing-page-master-index-html-2022-02-27-11_32_01.png)
+[<img align="left" alt="Visual Studio Code" width="26px" src="images/screencapture-file-C-Users-HP-Documents-manage-landing-page-master-index-html-2022-02-27-11_32_01.png"/>]
+
 
 
 ### Built with
